@@ -2,6 +2,8 @@ My Daily Status
 
 . npm init 
 
+. .gitignore
+
 . npm install next react react-dom
 
 
