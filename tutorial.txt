@@ -1,0 +1,17 @@
+My Daily Status 
+
+. npm init 
+
+. npm install next react react-dom
+
+
+
+
+
+
+
+
+
+
+
+
