@@ -6,10 +6,28 @@ My Daily Status
 
 . npm install next react react-dom
 
+. criar pages/index.js
+
+. rodar dex pra gerar o servidor!   "npm run dev"
+
+. pra rodar em produção: "npm run buid"
+
+. pra startar "npm run start"
+
+. criar pasta public com o logo dentro
 
 
+TAILWINDCSS 
 
+. instalar o tailwind: npm install postcss-import postcss-preset-env tailwindcss
 
+.npm tailwind init
+
+. criar o postcss.config.js e add plugins 
+
+. criar pastas styles/styles.css 
+
+. CREATE _app.js como maim page
 
 
 
