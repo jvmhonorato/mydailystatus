@@ -2,9 +2,16 @@ import React from 'react'
 
 const Index = () => {
   return (
-    <div>
-      <h1>My Daily Status</h1>
-
+    <div className='bg-gray-200 '>
+       <h1>
+          <img 
+          className='h-24 mx-auto py-4' 
+          src='/calendar-icon.png' 
+          alt='calendar' 
+          height='60px' 
+          />
+      </h1>
+      
     </div>
   )
 }

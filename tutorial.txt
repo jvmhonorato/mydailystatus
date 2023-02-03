@@ -30,6 +30,10 @@ TAILWINDCSS
 . CREATE _app.js como maim page
 
 
+PAGES 
+
+. criar page/page2.js
+
 
 
 
