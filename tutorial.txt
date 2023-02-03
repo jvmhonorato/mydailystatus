@@ -34,6 +34,14 @@ PAGES
 
 . criar page/page2.js
 
+COMPONENTS 
+
+. criar component/Header.js
+
+.criar component/navbar.js
+
+
+
 
 
 
