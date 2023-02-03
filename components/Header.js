@@ -1,4 +1,5 @@
 import React from "react";
+import NavBar from "./Navbar";
 
 const Header = () => {
     return(
@@ -11,6 +12,7 @@ const Header = () => {
            height='60px' 
            />
        </h1>
+       <NavBar/>
        
      </div>
     )
