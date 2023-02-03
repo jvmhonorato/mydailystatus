@@ -32,13 +32,16 @@ TAILWINDCSS
 
 PAGES 
 
-. criar page/page2.js
+. criar page/index.js
+. criar page/login.js
+. criar page/about.js
+. criar page/registration.js
 
 COMPONENTS 
 
 . criar component/Header.js
 
-.criar component/navbar.js
+. criar component/navbar.js e componentizar pra poder aplicar classe de css mais fácil
 
 
 
